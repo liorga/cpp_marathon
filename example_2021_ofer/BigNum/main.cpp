@@ -8,13 +8,15 @@ class BN {
 
 public:
 	BN() {}
-	BN(char* arr,uint size);
+	BN(char* arr,uint size){}
 	BN(const BN& rhs){
 		for(int i = 0 ; i < N ; i++){
 			data[i] = rhs.data[i];
 		}
 	}
-	~BN() {}
+	~BN() {
+		//no need to implement data will destroy default
+	}
 	BN& operator=(const BN& rhs){
 		for(int i = 0 ; i < N ; i++){
 			data[i] = rhs.data[i];
@@ -27,9 +29,9 @@ public:
 	void setBit(uint i ,char x){
 		data[i] = x;
 	}
-	void randomize();
-	void print() const;
-	operator string() const;
+	void randomize(){}
+	void print() const{}
+	operator string() const{}
 };
 
 
