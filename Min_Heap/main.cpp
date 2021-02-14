@@ -12,8 +12,10 @@ int main() {
 	h2 += 2;
 	bool b = h1 == h2;
 	cout << b << endl;
-/*	while (1)
+	
+	while (1)
 	{
+		cout << endl;
 		cout<<"------------------"<<endl;
 		cout<<"Operations on Heap"<<endl;
 		cout<<"------------------"<<endl;
@@ -24,7 +26,7 @@ int main() {
 		cout<<"5.Exit"<<endl;
 		int choice;
 		double element;
-		cout<<"Enter your choice: ";
+		cout<<"Enter your choice: " << endl;
 		cin>>choice;
 		switch(choice)
 		{
@@ -54,6 +56,6 @@ int main() {
 			default:
 				cout<<"Enter Correct Choice"<<endl;
 		}
-	}*/
+	}
 	return 0;
 }

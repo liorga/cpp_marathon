@@ -128,7 +128,7 @@ T Heap<T, Container, Comparator>::extractMin() const{
 
 template<class T, class Container, class Comparator>
 void Heap<T, Container, Comparator>::displayHeap() const{
-	typename Container::iterator it = heap.begin();
+	typename Container::const_iterator it = heap.begin();
 	cout<<"Heap elements are: " ;
 	while (it != heap.end())
 	{
