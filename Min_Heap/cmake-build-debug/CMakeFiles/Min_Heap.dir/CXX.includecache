@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/lior/cpp/cpp_marathon_2021/Min_Heap/Heap.h
+iostream
+-
+vector
+-
+
+/home/lior/cpp/cpp_marathon_2021/Min_Heap/main.cpp
+iostream
+-
+cstdlib
+-
+Heap.h
+/home/lior/cpp/cpp_marathon_2021/Min_Heap/Heap.h
+
