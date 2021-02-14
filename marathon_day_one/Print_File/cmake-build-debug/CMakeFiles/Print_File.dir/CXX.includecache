@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/lior/cpp/cpp_marathon_2021/marathon_day_one/Print_File/main.cpp
+iostream
+-
+iterator
+-
+fstream
+-
+vector
+-
+algorithm
+-
+

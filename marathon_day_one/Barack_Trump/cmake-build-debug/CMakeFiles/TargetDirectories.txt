@@ -1,0 +1,3 @@
+/home/lior/cpp/cpp_marathon_2021/marathon_day_one/Barack_Trump/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/lior/cpp/cpp_marathon_2021/marathon_day_one/Barack_Trump/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/lior/cpp/cpp_marathon_2021/marathon_day_one/Barack_Trump/cmake-build-debug/CMakeFiles/Barack_Trump.dir

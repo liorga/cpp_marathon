@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/lior/cpp/cpp_marathon_2021/marathon_day_one/Movies/main.cpp
+iostream
+-
+map
+-
+iterator
+-
+

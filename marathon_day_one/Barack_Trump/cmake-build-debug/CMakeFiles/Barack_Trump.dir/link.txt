@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Barack_Trump.dir/main.cpp.o  -o Barack_Trump 

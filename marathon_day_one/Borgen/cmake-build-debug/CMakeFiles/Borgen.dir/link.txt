@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Borgen.dir/main.cpp.o  -o Borgen 

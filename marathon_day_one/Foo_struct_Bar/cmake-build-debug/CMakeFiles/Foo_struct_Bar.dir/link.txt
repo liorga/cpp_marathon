@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Foo_struct_Bar.dir/main.cpp.o  -o Foo_struct_Bar 
